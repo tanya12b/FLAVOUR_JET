@@ -1,4 +1,4 @@
-Flavour Jet : Project Overview-
+Project Overview-
 JetFlavor is a user-friendly food delivery app. The app aims to provide a seamless and enjoyable online food ordering experience for users.
 
 Key Features:
